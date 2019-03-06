@@ -63,6 +63,7 @@ WR,Bill Hillard,26,2012,80,83,72,75,60,50,2.5,1
 WR,Oliver Northwood,23,2015,61,64,48,49,64,69,0.6,4
 WR,Jeremy Oak,25,2012,60,52,33,52,44,28,2.1,4
 WR,James Polk,27,2011,57,51,31,48,45,25,2.3,4
+WR,Clarence Ned,25,2012,50,52,33,52,45,28,2.1,4
 OL,Adrian Jexing,27,2009,73,65,71,73,76,60,5.2,5
 OL,Kevin Hooth,23,2014,64,59,70,68,71,64,9,1
 OL,Manny Tother,23,2015,69,48,61,72,69,68,1.1,1
@@ -156,7 +157,6 @@ LB,Ginn Teach,24,2013,71,60,45,44,69,30,2,3
 LB,William McKinney,30,2007,67,57,67,27,50,30,2,1.3
 LB,Theodore Roosevelt,23,2014,79,48,63,31,37,22,2,2.3
 LB,William Taft,25,2013,68,58,67,38,45,21,5,3
-
 END_PLAYERS
 Davinci Turtles,DT
 QB,Rudy Sither,23,2014,84,65,73,59,78,54,1,1
@@ -1817,4 +1817,3 @@ LB,Nick Bellore,27,2011,59,70,87,86,64,72,0.8,2
 LB,Michael Wilhoite,29,2011,60,77,90,83,66,82,1.7,1
 LB,Corey Lemonier,24,2013,81,63,90,73,61,65,0.7,4
 END_PLAYERS
-
