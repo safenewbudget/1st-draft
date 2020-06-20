@@ -495,14 +495,14 @@ CB,Quinton Liemon,29,2010,49,69,44,53,62,50,2,3
 CB,Chad Wick,33,2007,60,58,60,44,48,39,2,3
 CB,Triston James,34,2006,60,44,33,41,60,28,2,3
 CB,Brett Semi,32,2005,61,43,39,28,70,18,2,3
-OL,Brad Pegion,34,2004,66,61,62,65,58,67,2,3
-OL,Carlos Logan,30,2009,60,68,60,60,62,49,2,3
-OL,Daniel Savings,27,2011,60,70,51,61,60,50,2,3
-OL,Lincoln Washington,22,2015,54,64,48,44,54,44,2,3
-OL,Benjamin Grant,24,2013,70,62,40,50,38,51,2,3
-OL,Jackson Jefferson,26,2012,58,63,60,49,29,48,2,3
-OL,Kennedy Roosevelt,28,2010,65,55,45,55,52,50,2,3
-OL,Tony Glass,22,2015,62,48,40,37,30,29,2,3
+DL,Brad Pegion,34,2004,66,61,62,65,58,67,2,3
+DL,Carlos Logan,30,2009,60,68,60,60,62,49,2,3
+DL,Daniel Savings,27,2011,60,70,51,61,60,50,2,3
+DL,Lincoln Washington,22,2015,54,64,48,44,54,44,2,3
+DL,Benjamin Grant,24,2013,70,62,40,50,38,51,2,3
+DL,Jackson Jefferson,26,2012,58,63,60,49,29,48,2,3
+DL,Kennedy Roosevelt,28,2010,65,55,45,55,52,50,2,3
+DL,Tony Glass,22,2015,62,48,40,37,30,29,2,3
 LB,Chiles Floorswept,25,2013,60,37,29,40,27,30,2,3
 LB,Ivy Pattern,24,2014,66,61,77,68,70,66,2,3
 LB,Charles Brick,23,2015,68,72,61,50,60,70,2,3
@@ -966,7 +966,7 @@ LB,Kenny Angel,25,2012,71,69,66,76,63,70,2,3
 LB,Andrick Push,29,2009,70,66,64,74,60,70,2,3
 LB,Donovan Shell,33,2005,61,69,54,73,61,71,2,3
 LB,Rob Togapee,27,2009,64,61,64,52,38,70,2,3
-LB,Howard,31,2007,63,62,60,40,64,68,2,3
+LB,Howard D,31,2007,63,62,60,40,64,68,2,3
 END_PLAYERS
 Anderson DeZone HS Storks,ADS
 QB,Zay Thart,28,2010,51,56,42,59,43,65,2,3
